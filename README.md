@@ -1,2 +1,3 @@
 #!/bin/bash
-This script switches the current user to the user `betty` using the `su` command.
+This script switches the current user to the user `betty` using the `su` command
+
